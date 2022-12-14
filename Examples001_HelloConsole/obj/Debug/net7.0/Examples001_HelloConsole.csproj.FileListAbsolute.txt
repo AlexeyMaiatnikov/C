@@ -1,0 +1,15 @@
+D:\YandexDisk\Сourses\GeekBrains\C#_Lection\Examples001_HelloConsole\bin\Debug\net7.0\Examples001_HelloConsole.exe
+D:\YandexDisk\Сourses\GeekBrains\C#_Lection\Examples001_HelloConsole\bin\Debug\net7.0\Examples001_HelloConsole.deps.json
+D:\YandexDisk\Сourses\GeekBrains\C#_Lection\Examples001_HelloConsole\bin\Debug\net7.0\Examples001_HelloConsole.runtimeconfig.json
+D:\YandexDisk\Сourses\GeekBrains\C#_Lection\Examples001_HelloConsole\bin\Debug\net7.0\Examples001_HelloConsole.dll
+D:\YandexDisk\Сourses\GeekBrains\C#_Lection\Examples001_HelloConsole\bin\Debug\net7.0\Examples001_HelloConsole.pdb
+D:\YandexDisk\Сourses\GeekBrains\C#_Lection\Examples001_HelloConsole\obj\Debug\net7.0\Examples001_HelloConsole.csproj.AssemblyReference.cache
+D:\YandexDisk\Сourses\GeekBrains\C#_Lection\Examples001_HelloConsole\obj\Debug\net7.0\Examples001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\Сourses\GeekBrains\C#_Lection\Examples001_HelloConsole\obj\Debug\net7.0\Examples001_HelloConsole.AssemblyInfoInputs.cache
+D:\YandexDisk\Сourses\GeekBrains\C#_Lection\Examples001_HelloConsole\obj\Debug\net7.0\Examples001_HelloConsole.AssemblyInfo.cs
+D:\YandexDisk\Сourses\GeekBrains\C#_Lection\Examples001_HelloConsole\obj\Debug\net7.0\Examples001_HelloConsole.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Сourses\GeekBrains\C#_Lection\Examples001_HelloConsole\obj\Debug\net7.0\Examples001_HelloConsole.dll
+D:\YandexDisk\Сourses\GeekBrains\C#_Lection\Examples001_HelloConsole\obj\Debug\net7.0\refint\Examples001_HelloConsole.dll
+D:\YandexDisk\Сourses\GeekBrains\C#_Lection\Examples001_HelloConsole\obj\Debug\net7.0\Examples001_HelloConsole.pdb
+D:\YandexDisk\Сourses\GeekBrains\C#_Lection\Examples001_HelloConsole\obj\Debug\net7.0\Examples001_HelloConsole.genruntimeconfig.cache
+D:\YandexDisk\Сourses\GeekBrains\C#_Lection\Examples001_HelloConsole\obj\Debug\net7.0\ref\Examples001_HelloConsole.dll
